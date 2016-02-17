@@ -1,0 +1,13 @@
+"37.accessibilityHint" = "Double tap to take a picture of what's in front of you";
+"37.accessibilityLabel" = "Camera Button";
+"52.accessibilityHint" = "About TapTapSee";
+"52.accessibilityLabel" = "About";
+"57.accessibilityHint" = "Say the last picture again";
+"57.accessibilityLabel" = "Repeat";
+"57.normalTitle" = "Repeat";
+"61.accessibilityHint" = "Save or share most recent image";
+"61.accessibilityLabel" = "Share";
+"61.normalTitle" = "Share";
+"63.accessibilityHint" = "Access photo gallery options";
+"63.accessibilityLabel" = "Gallery";
+"63.normalTitle" = "Gallery";

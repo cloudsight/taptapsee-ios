@@ -1,0 +1,13 @@
+﻿"37.accessibilityHint" = "Dobbelttrykk for å ta et bilde av det som er foran deg";
+"37.accessibilityLabel" = "Kamera knapp";
+"52.accessibilityHint" = "Om TapTapSee";
+"52.accessibilityLabel" = "Om";
+"57.accessibilityHint" = "Si det siste bildet igjen";
+"57.accessibilityLabel" = "Gjenta";
+"57.normalTitle" = "Gjenta";
+"61.accessibilityHint" = "Lagre eller del det siste bildet";
+"61.accessibilityLabel" = "Del";
+"61.normalTitle" = "Del";
+"63.accessibilityHint" = "Få tilgang til fotogalleri-valg";
+"63.accessibilityLabel" = "Galleri";
+"63.normalTitle" = "Galleri";

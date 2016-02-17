@@ -1,0 +1,66 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Appirater (2.0.4)
+  - BFOAuth (1.0.1)
+  - CloudSight (1.0.3):
+    - BFOAuth (~> 1.0)
+    - RequestUtils (~> 1.1)
+  - FlurrySDK (5.0.0):
+    - FlurrySDK/FlurrySDK (= 5.0.0)
+  - FlurrySDK/FlurrySDK (5.0.0)
+  - GoogleAnalytics-iOS-SDK (3.0.9)
+  - GroundControl (2.1.0):
+    - AFNetworking (~> 2.2)
+  - RequestUtils (1.1)
+  - TMReachability (3.2)
+
+DEPENDENCIES:
+  - Appirater (~> 2.0.2)
+  - CloudSight
+  - FlurrySDK (~> 5.0.0)
+  - GoogleAnalytics-iOS-SDK (~> 3.0.7)
+  - GroundControl (~> 2.1.0)
+  - RequestUtils
+  - TMReachability (from `https://github.com/albertbori/Reachability`)
+
+EXTERNAL SOURCES:
+  TMReachability:
+    :git: https://github.com/albertbori/Reachability
+
+CHECKOUT OPTIONS:
+  TMReachability:
+    :commit: e34782b386307e386348b481c02c176d58ba45e6
+    :git: https://github.com/albertbori/Reachability
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  Appirater: 8783318c36414e8de3ea023443028df94c1b784b
+  BFOAuth: e3c2e4eaae862a89bc301ed6f292d3cd0d6a107b
+  CloudSight: 7974bacb22ec2db1bfb0f0242d9be7f442a78d77
+  FlurrySDK: add7b6117a6442dcbe7a898269b25a7e253f7934
+  GoogleAnalytics-iOS-SDK: 3b0994bef22ed2e176a9e2a4d1660c7c2542eb47
+  GroundControl: fbc762e0097feece7fb6d8cdc8f2747a504a6833
+  RequestUtils: a33510359ff9c39945a981bb867ebba9e3881f14
+  TMReachability: 48c99d728a8b0ad4493800592484b8cbb65c896c
+
+COCOAPODS: 0.39.0
