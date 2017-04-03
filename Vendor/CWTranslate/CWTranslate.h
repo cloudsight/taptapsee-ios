@@ -10,8 +10,6 @@
 
 #import "CWTranslateDelegate.h"
 
-#define GOOGLE_API_KEY @"AIzaSyCfQiri2fXEijNlH1qEUuBQY83FrVo0kGM"
-
 static const int kCWInvalidResponseError = 1;
 
 @interface CWTranslate : NSObject <NSURLConnectionDelegate>
